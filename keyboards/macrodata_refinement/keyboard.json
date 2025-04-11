@@ -10,11 +10,12 @@
         "console": false,
         "extrakey": true,
         "mousekey": true,
-        "nkro": true
+        "nkro": true,
+        "pointing_device": true
     },
     "matrix_pins": {
-        "cols": ["C2", "C2", "C2", "C2"],
-        "rows": ["D1", "D1", "D1", "D1"]
+        "cols": ["A13", "A14", "A15", "B3", "B4", "B5", "B6", "B7", "B8", "B9", "A10", "A9", "A8", "B15", "B14", "B13", "B12"],
+        "rows": ["B11", "B10", "B2", "B1", "B0", "A3"]
     },
     "processor": "STM32F072",
     "url": "",
